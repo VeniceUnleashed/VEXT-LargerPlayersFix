@@ -1,2 +1,2 @@
-# VEXT-LargerPlayersFix
+# VEXT-LargePlayersFix
 Allows greater than 64 players in a server. Otherwise users are stuck in black screen
