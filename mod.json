@@ -1,0 +1,11 @@
+{
+    "Name": "VEXT-LargePlayersFix",
+    "Description": "Fix for greater than 64 players",
+    "Version": "1.0.0",
+    "HasVeniceEXT": true,
+    "HasWebUI": false,
+    "Tags": [ ],
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}
